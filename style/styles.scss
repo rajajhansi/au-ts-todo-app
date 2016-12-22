@@ -1,4 +1,6 @@
+$padding: 10px;
+
 body { font-family: Verdana, Arial; }
 .strikeout { text-decoration: line-through; }
-ul { padding-left: 10px; } 
+ul { padding-left: $padding; } 
 li { list-style-type: none;}
